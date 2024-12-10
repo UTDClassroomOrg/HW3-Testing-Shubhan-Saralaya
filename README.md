@@ -68,7 +68,7 @@ The function handles the following test cases for the array `X[1...n]`.
 
 ### **Fixing Errors Upon Test Completion**
 
-When I ran the test cases, I encountered the following errors:
+When I ran the test cases, I encountered the following errors (Simulated errors):
 
 1. `functionalAverageTest()`
 2. `partitionValidAverageTest()`
